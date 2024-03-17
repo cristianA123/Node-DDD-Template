@@ -1,4 +1,5 @@
-# Rest Project + TypeScript
+# TEMPLATE:
+## Rest Project + TypeScript
 
 Este proyecto previamente inicializado tiene todo lo necesario para trabajar con TypeScript, Express y Rest.
 
